@@ -2,8 +2,8 @@
 
 1. Clone repositories
     ```bash
-    git clone https://github.com/omidiyanto/bert-small-cvss-prediction.git
-    cd bert-small-cvss-prediction
+    git clone https://github.com/belgisanggita/bert-cvss-prediction.git
+    cd bert-cvss-prediction
     ```
 2. Download the model without training
     ```bash
@@ -30,4 +30,6 @@
     ```bash
     docker run -d --name cvss-bert-container -p 5000:5000 cvss-bert-image
     ```
+
+    
     
