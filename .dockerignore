@@ -1,0 +1,12 @@
+Attack_Complexity
+Attack_Vector
+Availability_Impact
+Confidentiality_Impact
+data
+Integrity_Impact
+Privileges_Required
+Scope
+User_Interaction
+1-download dataset & EDA.ipynb
+2-generate train and test dataset.ipynb
+testRequest.ipynb
