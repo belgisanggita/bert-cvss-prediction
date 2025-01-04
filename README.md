@@ -6,11 +6,13 @@
     cd bert-cvss-prediction
     ```
 2. Download the model without training
-    ```bash
-    pip install gdown
-    mkdir -p ./models
-    gdown https://drive.google.com/drive/folders/1eScuYo-_todE6o7fPCrMTZHcxokb-syU -O models --folder
-    ```
+    - Download on **Release** Section
+    ![{38CAC19B-5B60-49D6-BCBE-15D61506DA48}](https://github.com/user-attachments/assets/28a5ec0d-a484-4bbc-bc45-758ffc090341)
+    - Create "models" folder
+        ```bash
+        mkdir -p ./models
+        ```
+    - Extract all of the models from "models.zip" to "models/" folder 
 
 3. Install Libraries
     ```bash
